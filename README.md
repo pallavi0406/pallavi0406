@@ -8,7 +8,7 @@
 ---
 
 ## 📝 My Resume
-📥 **[Download My Resume](https://drive.google.com/file/d/16kdeFDi0MXYMW6UbremUaziDfkunxmM2/view?usp=sharing)**
+📥 **[Download My Resume](https://drive.google.com/file/d/1LETJ8IhGJ7DhYlXkoiQXzXkPNqQ-fCMC/view?usp=sharing)**
 
 ---
 
@@ -64,9 +64,9 @@ Detail-oriented engineer with expertise in **AI, machine learning, and cloud com
 ---
 
 ## 🏆 Certifications
-- **AWS Certified Cloud Practitioner** ([View](https://www.credly.com/badges/3f6a4beb-10f6-4253-8c1b-6b3fc029db1a5/public_url))
+- **AWS Certified Cloud Practitioner** ([View](https://www.credly.com/badges/3f6a4beb-10f6-4253-8c1b-6b3fc029db1a/public_url))
 - **Salesforce AI Associate** ([View](https://trailhead.salesforce.com/credentials/aiassociate))
-- **Introduction to IoT (Cisco)**
+- **Introduction to IoT (Cisco)** ([View](https://www.credly.com/badges/5562749f-5fe0-4118-a919-906b1b15a9e5/public_url))
 
 ---
 
