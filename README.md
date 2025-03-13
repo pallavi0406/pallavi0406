@@ -92,7 +92,7 @@ Detail-oriented engineer with expertise in **AI, machine learning, and cloud com
 ## ✨ Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pallavi0406&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi0406&theme=radical" alt="GitHub Streak"](https://github-readme-streak-stats.herokuapp.com/?user=pallavi0406&theme=radical%22%20alt=%22GitHub%20Streak%22 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi0406&theme=radical%22%20alt=%22GitHub%20Streak%22 />
 </p>
 
 ---
