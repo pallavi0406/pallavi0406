@@ -12,7 +12,7 @@
 
 ---
 
-## 📝 Summary
+## 📝 Career-Objective
 Detail-oriented engineer with expertise in **AI, machine learning, and cloud computing** using AWS. Proficient in deploying **scalable AWS infrastructure** and implementing **AI/ML models** to solve complex problems. Experienced in optimizing system performance through machine learning algorithms and cloud-based solutions. Currently pursuing a **B.Tech in Artificial Intelligence and Data Science** with a strong foundation in AI, ML, programming, and databases.
 
 ---
@@ -70,7 +70,7 @@ Detail-oriented engineer with expertise in **AI, machine learning, and cloud com
 
 ---
 
-## 💼 Experience
+## 💼 Inernships
 ### BIST Technologies | Machine Learning Intern
 - Developed **AI-based models** and maintained strong industry relationships.
 
