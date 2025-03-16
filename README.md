@@ -98,7 +98,7 @@ Detail-oriented engineer with expertise in **AI, machine learning, and cloud com
 ---
 
 ## 🖊️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
