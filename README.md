@@ -3,7 +3,7 @@
 # Hi, I'm Meesala Lakshmi Pallavi 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pallavi0406&color=blue)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=138d75&center=true&vCenter=true&width=600&lines=AI+%26+Cloud+Enthusiast;Aspiring+Data+Engineer;Cloud+Computing+Enthusiast;Passionate+about+Innovation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=138d75&center=true&vCenter=true&width=600&lines=AI+%26+Cloud+Enthusiast;Aspiring+Data+Engineer;Cloud+Computing+Enthusiast;Passionate+About+Innovation)
 
 ---
 
