@@ -3,12 +3,6 @@
 </div>
 
 # Welcome To My GitHub Profile !
-
-<br/>
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
-</div>
-<br/>
 # Hi, I'm Meesala Lakshmi Pallavi 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pallavi0406&color=blue)
