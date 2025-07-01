@@ -11,7 +11,7 @@
 ---
 
 ## 📝 My Resume
-📥 **[Download My Resume]("https://drive.google.com/file/d/1CjqOYGDr3z9u4XWQsW5dqhBE_m2e3NZ5/view?usp=sharing")**
+📥 **[Download My Resume](https://drive.google.com/file/d/1CjqOYGDr3z9u4XWQsW5dqhBE_m2e3NZ5/view?usp=sharing)**
 
 ---
 
